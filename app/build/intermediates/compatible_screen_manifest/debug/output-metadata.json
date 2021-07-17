@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "artifactType": {
+    "type": "COMPATIBLE_SCREEN_MANIFEST",
+    "kind": "Directory"
+  },
+  "applicationId": "com.masai.a96july_remember_me_css_login_page_with_checkbox_rememberme_you5",
+  "variantName": "debug",
+  "elements": []
+}
